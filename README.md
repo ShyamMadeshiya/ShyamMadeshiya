@@ -14,18 +14,21 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-- Python
-- SQL
-- PySpark
-- Power BI
-- SQL
-- GCP
-- BigQuery
-- Airflow
-- Git & GitHub
-- Excel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,gcp,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 ---
 
