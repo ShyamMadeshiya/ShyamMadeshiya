@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Shyam Madeshiya
 
-<!--
-**ShyamMadeshiya/ShyamMadeshiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate
 
-Here are some ideas to get you started:
+📊 Aspiring Data Engineer & Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Learning Data Engineering and Cloud Technologies
+- 💼 Interested in Data Engineering and Data Analytics roles
+- 📍 Based in India
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- SQL
+- PySpark
+- Power BI
+- SQL
+- GCP
+- BigQuery
+- Airflow
+- Git & GitHub
+- Excel
+
+---
+
+## 📂 Featured Projects
+
+- 📊 Power BI Data Modelling Project
+- ✈️ Flight Booking Data Pipeline with Airflow & CI/CD
+
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/shyammadeshiya
+- Email: shyammadeshiya87380@gmail.com
